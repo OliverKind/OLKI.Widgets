@@ -4,8 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 ### Added
-- Tool Class
-- Tools.ComboBox_AutoDropDownWidth
+- N/A
 
 ### Changed
 - N/A
