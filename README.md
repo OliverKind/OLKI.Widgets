@@ -30,8 +30,6 @@ and use the namespace
 OLKI.Widgets
 ```
 
-Add additional notes about how to deploy this on a live system
-
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on my code of conduct, and the process for submitting pull requests to me.
