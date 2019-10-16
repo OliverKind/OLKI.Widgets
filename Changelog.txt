@@ -12,16 +12,14 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 - N/A
 
+## [1.0.2.3] - 2019-10-16
+### Fixed
+- Wrong text at LGPL-Licence file
+
 ## [1.0.1.2] - 2018-12-28
 ### Added
 - Tool Class
 - Tools.ComboBox_AutoDropDownWidth
-
-### Changed
-- N/A
-
-### Fixed
-- N/A
 
 ## [1.0.0.1] - 2017-01-04
 ### Initial release
