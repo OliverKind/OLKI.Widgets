@@ -26,6 +26,9 @@ using System.Windows.Forms;
 
 namespace OLKI.Widgets
 {
+    /// <summary>
+    /// Provides tools for widgets
+    /// </summary>
     public static class Tools
     {
         #region Methods
