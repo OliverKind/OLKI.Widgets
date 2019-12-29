@@ -5,7 +5,7 @@
  * License:     LGPL
  * 
  * Desctiption:
- * Set the progress elemetns by invoking, if required, in progress controle
+ * An ListView with the ability to sort by click a column and add a sort arrow to the clicked column
  * 
  * This code base on code written by sagar_253, 21 Mar 2014:
  * Original Autor:      sagar_253, 21 Mar 2014
