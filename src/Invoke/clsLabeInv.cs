@@ -33,7 +33,7 @@ namespace OLKI.Widgets.Invoke
     public static class LabelInv
     {
         /// <summary>
-        /// Set TextBox text, if required invoke
+        /// Set Label text, if required invoke
         /// </summary>
         /// <param name="label">TextBox to set the text</param>
         /// <param name="text">Text to set to TextBox.Text</param>
