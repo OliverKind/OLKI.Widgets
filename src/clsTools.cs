@@ -5,7 +5,7 @@
  * License:     LGPL
  * 
  * Desctiption:
- * Set the progress elemetns by invoking, if required, in progress controle
+ * rovides tools for widgets
  * 
  * 
  * This program is free software; you can redistribute it and/or modify
