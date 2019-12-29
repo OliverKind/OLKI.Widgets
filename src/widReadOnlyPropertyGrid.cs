@@ -5,7 +5,7 @@
  * License:     LGPL
  * 
  * Desctiption:
- * Set the progress elemetns by invoking, if required, in progress controle
+ * An PropertyGrid with the ability to read only the properties
  * 
  * This code was inspired by sorce code written by Franta Zahora, 08-Jun-2009
  * Original Autor:      Franta Zahora, 08-Jun-2009
