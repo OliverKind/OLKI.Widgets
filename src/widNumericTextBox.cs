@@ -5,7 +5,7 @@
  * License:     LGPL
  * 
  * Desctiption:
- * Set the progress elemetns by invoking, if required, in progress controle
+ * A TextBox that accepts only numeric values
  * 
  * 
  * This program is free software; you can redistribute it and/or modify
