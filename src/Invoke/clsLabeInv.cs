@@ -5,7 +5,7 @@
  * License:     LGPL
  * 
  * Desctiption:
- * Set the lebel properties by invoking, if required
+ * Set Label properties by invoking, if required
  * 
  * 
  * This program is free software; you can redistribute it and/or modify
