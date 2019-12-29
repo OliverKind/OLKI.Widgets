@@ -1,26 +1,30 @@
 ﻿/*
- * Filename:        widSortListView.cs
- * Created:         2017-01-04
- * Last modified:   2017-01-04
- * Copyright:        Oliver Kind - 2017 (only of this file and the widget, not the original source code, see below)
- * License:         LGPL (only of this file and the widget, not the original source code, see below)
- *  
+ * OLKI.Widgets
+ * 
+ * Copyright:   Oliver Kind - 2019
+ * License:     LGPL
+ * 
+ * Desctiption:
+ * Set the progress elemetns by invoking, if required, in progress controle
+ * 
  * This code base on code written by sagar_253, 21 Mar 2014:
  * Original Autor:      sagar_253, 21 Mar 2014
  * Original Source:     http://www.codeproject.com/Tips/734463/Sort-listview-Columns-and-Set-Sort-Arrow-Icon-on-C
  * Original Titel:      Sort listview Columns and Set Sort Arrow Icon on Column Header
  * Original Licence:    The Code Project Open License (CPOL)
  * 
- * What was done by me:
- * I have taken the code from the webpage and used it to write this widget.
- * The Original Sourcecode is attached at the end of the file
  * 
- * File Content:
- * 1. SortListView
- * 2. Original sourcecode as it was published by sagar_253, 21 Mar 2014
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the LGPL General Public License as published by
+ * the Free Software Foundation; either version 3 of the License, or
+ * (at your option) any later version.
  * 
- * Desctiption:
- * An ListView with the ability to sort by click a column and add a sort arrow to the clicked column
+ * This program is distributed WITHOUT ANY WARRANTY; without even the implied
+ * warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * LGPL General Public License for more details.
+ * 
+ * You should have received a copy of the GNU General Public License
+ * along with this program; if not check the GitHub-Repository.
  * 
  * */
 

@@ -1,25 +1,29 @@
 ﻿/*
- * Filename:        widReadOnlyPropertyGrid.cs
- * Created:         2017-01-04
- * Last modified:   2017-01-04
- * Copyright:       Oliver Kind - 2017 (only of this file and the widget, not the original source code, see below)
- * License:         LGPL (only of this file and the widget, not the original source code, see below)
+ * OLKI.Widgets
+ * 
+ * Copyright:   Oliver Kind - 2019
+ * License:     LGPL
+ * 
+ * Desctiption:
+ * Set the progress elemetns by invoking, if required, in progress controle
  * 
  * This code was inspired by sorce code written by Franta Zahora, 08-Jun-2009
  * Original Autor:      Franta Zahora, 08-Jun-2009
  * Original Source:     http://www.csharp-examples.net/readonly-propertygrid/
  * Original Titel:      Read-only PropertyGrid [C#]
  * 
- * What was done by me:
- * I have taken the code from the webpage, modified it and used it to write this widget.
- * The Original Sourcecode is attached at the end of the file
  * 
- * File Content:
- * 1. SortListView
- * 2. Original sourcecode as it was published by sagar_253, 21 Mar 2014
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the LGPL General Public License as published by
+ * the Free Software Foundation; either version 3 of the License, or
+ * (at your option) any later version.
  * 
- * Desctiption:
- * An PropertyGrid with the ability to read only the properties
+ * This program is distributed WITHOUT ANY WARRANTY; without even the implied
+ * warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * LGPL General Public License for more details.
+ * 
+ * You should have received a copy of the GNU General Public License
+ * along with this program; if not check the GitHub-Repository.
  * 
  * */
 
