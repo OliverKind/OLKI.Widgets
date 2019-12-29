@@ -5,7 +5,7 @@
  * License:     LGPL
  * 
  * Desctiption:
- * rovides tools for widgets
+ * Provides tools for widgets
  * 
  * 
  * This program is free software; you can redistribute it and/or modify
