@@ -27,6 +27,9 @@ using System.Windows.Forms;
 
 namespace OLKI.Widgets.Invoke
 {
+    /// <summary>
+    /// Set Label properties by invoking, if required
+    /// </summary>
     public static class LabelInv
     {
         /// <summary>
