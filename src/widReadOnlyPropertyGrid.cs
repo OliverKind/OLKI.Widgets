@@ -28,10 +28,8 @@
  * */
 
 using System;
-using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
-using System.Text;
 using System.Windows.Forms;
 
 namespace OLKI.Widgets
@@ -106,46 +104,3 @@ namespace OLKI.Widgets
         #endregion
     }
 }
-
-/* Original source code from http://www.csharp-examples.net/readonly-propertygrid/
-SECITON 1:
-TypeDescriptor.AddAttributes(this.SelectedObject, new Attribute[] { new ReadOnlyAttribute(_readOnly) });
-
-SECITON 2:
-public class ReadOnlyPropertyGrid : PropertyGrid
-{
-  private bool _readOnly;
-  public bool ReadOnly
-  {
-    get { return _readOnly; }
-    set
-    {
-      _readOnly = value;
-      this.SetObjectAsReadOnly(this.SelectedObject, _readOnly);
-    }
-  }
-
-  protected override void OnSelectedObjectsChanged(EventArgs e)
-  {
-    this.SetObjectAsReadOnly(this.SelectedObject, this._readOnly);
-    base.OnSelectedObjectsChanged(e);
-  }
-
-  private void SetObjectAsReadOnly(object selectedObject, bool isReadOnly)
-  {
-    if (this.SelectedObject != null)
-    {
-      TypeDescriptor.AddAttributes(this.SelectedObject, new Attribute[] { new ReadOnlyAttribute(_readOnly) });
-      this.Refresh();
-    }
-  }
-}
-
-SECTION 3:
-// store the provider
-TypeDescriptionProvider provider = TypeDescriptor.AddAttributes(this.SelectedObject,
-new Attribute[] { new ReadOnlyAttribute(_readOnly) });
-
-// remove the provider
-TypeDescriptor.RemoveProvider(provider, this.SelectedObject);
-*/
