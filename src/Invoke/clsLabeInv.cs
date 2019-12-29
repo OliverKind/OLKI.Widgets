@@ -27,18 +27,18 @@ using System.Windows.Forms;
 
 namespace OLKI.Widgets.Invoke
 {
-    public static class Label_
+    public static class LabelInv
     {
         /// <summary>
         /// Set TextBox text, if required invoke
         /// </summary>
         /// <param name="label">TextBox to set the text</param>
         /// <param name="text">Text to set to TextBox.Text</param>
-        public static void Invoke_Label_Text(Label label, string text)
+        public static void Text(Label label, string text)
         {
             if (label.InvokeRequired)
             {
-                label.Invoke(new Action<Label, string>(Invoke_Label_Text), new object[] { label, text });
+                label.Invoke(new Action<Label, string>(Text), new object[] { label, text });
             }
             else
             {

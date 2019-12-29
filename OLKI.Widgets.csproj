@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="src\clsTools.cs" />
+    <Compile Include="src\Invoke\clsLabe_I.cs" />
     <Compile Include="src\widNumericTextBox.cs">
       <SubType>Component</SubType>
     </Compile>
