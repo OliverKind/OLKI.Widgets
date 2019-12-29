@@ -47,8 +47,7 @@ namespace OLKI.Widgets
         {
             get
             {
-                int Dummy;
-                if (int.TryParse(base.Text, out Dummy))
+                if (int.TryParse(base.Text, out _))
                 {
                     return base.Text;
                 }
@@ -69,8 +68,7 @@ namespace OLKI.Widgets
 
         protected override void OnTextChanged(EventArgs e)
         {
-            int Dummy;
-            if (int.TryParse(base.Text, out Dummy) || string.IsNullOrEmpty(base.Text))
+            if (int.TryParse(base.Text, out _) || string.IsNullOrEmpty(base.Text))
             {
                 this._textBefore = base.Text;
             }
