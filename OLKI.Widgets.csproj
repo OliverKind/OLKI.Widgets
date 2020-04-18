@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="src\clsTools.cs" />
+    <Compile Include="src\Invoke\clsComboBox.cs" />
     <Compile Include="src\Invoke\clsProgressBarInv.cs" />
     <Compile Include="src\Invoke\clsTabePageInv.cs" />
     <Compile Include="src\Invoke\clsListViewInv.cs" />

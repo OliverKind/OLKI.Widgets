@@ -12,6 +12,13 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 - N/A
 
+## [3.0.0.5] - 2020-04-19
+### Added
+- OLKI.Widgets.Invoke.ComboBox
+
+### Changed
+- OLKI.Widgets.Tools.ComboBox_AutoDropDownWidth: Change DropDownWidth by invoking, if required
+
 ## [2.0.0.4] - 2019-12-12
 ### Added
 - OLKI.Widgets.Invoke
