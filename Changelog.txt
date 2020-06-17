@@ -12,9 +12,13 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 - N/A
 
+## [4.0.0.6] - 2020-06-18
+### Added
+- OLKI.Widgets.Invoke.FormInv
+
 ## [3.0.0.5] - 2020-04-19
 ### Added
-- OLKI.Widgets.Invoke.ComboBox
+- OLKI.Widgets.Invoke.ComboBoxInv
 
 ### Changed
 - Required .NET-Framework set to Version 4.7.2

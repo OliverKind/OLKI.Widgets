@@ -52,6 +52,7 @@
     <Compile Include="src\Invoke\clsTabePageInv.cs" />
     <Compile Include="src\Invoke\clsListViewInv.cs" />
     <Compile Include="src\Invoke\clsLabeInv.cs" />
+    <Compile Include="src\Invoke\clsFormInv.cs" />
     <Compile Include="src\Invoke\clsTextBoxInv.cs" />
     <Compile Include="src\widNumericTextBox.cs">
       <SubType>Component</SubType>
