@@ -12,6 +12,10 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 - N/A
 
+## [5.0.0.7] - 2020-08-02
+### Added
+- OLKI.Widgets.PictrueBoxCropSimple
+
 ## [4.0.0.6] - 2020-06-18
 ### Added
 - OLKI.Widgets.Invoke.FormInv

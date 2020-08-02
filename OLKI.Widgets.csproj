@@ -57,6 +57,9 @@
     <Compile Include="src\widNumericTextBox.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="src\widPictrueBoxCropSimple.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="src\widReadOnlyPropertyGrid.cs">
       <SubType>Component</SubType>
     </Compile>
@@ -84,6 +87,12 @@
     <None Include="CONTRIBUTING.md" />
     <None Include="LICENSE" />
     <None Include="README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\OLKI.Tools\ColorAndPicture\OLKI.Tools.ColorAndPicture.csproj">
+      <Project>{2e402f8b-a952-4c82-a67b-580218a5aa11}</Project>
+      <Name>OLKI.Tools.ColorAndPicture</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
