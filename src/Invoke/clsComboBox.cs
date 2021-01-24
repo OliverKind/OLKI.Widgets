@@ -37,7 +37,7 @@ namespace OLKI.Widgets.Invoke
         /// </summary>
         /// <param name="comboBox">ComboBox to set the DropDownWidth</param>
         /// <param name="dropDownWidth">Width to set to ComboBox.DropDownWidth</param>
-        public static void DropDownWidth(ComboBox comboBox, int  dropDownWidth)
+        public static void DropDownWidth(ComboBox comboBox, int dropDownWidth)
         {
             if (comboBox.InvokeRequired)
             {
